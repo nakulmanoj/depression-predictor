@@ -1,0 +1,17 @@
+autogluon_models/
+notebooks/autogluon_models/
+
+*.pkl
+*.ubj
+*.pt
+*.pickle
+*.onnx
+*.h5
+
+notebooks/.ipynb_checkpoints/
+
+data/train.csv
+data/clean_data.csv
+data/clean_data_with_feedback.csv
+
+artifacts/
